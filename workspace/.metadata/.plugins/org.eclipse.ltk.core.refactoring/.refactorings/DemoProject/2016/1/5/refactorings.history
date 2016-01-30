@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;src.jenkinspkg&apos; to &apos;Demo_POC_Jenkin/src&apos;&#x0D;&#x0A;- Original project: &apos;DemoProject&apos;&#x0D;&#x0A;- Destination element: &apos;Demo_POC_Jenkin/src&apos;&#x0D;&#x0A;- Original element: &apos;DemoProject/src.jenkinspkg&apos;" description="Copy package" destination="=Demo_POC_Jenkin/src" element1="/&lt;src.jenkinspkg" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1454071839776" version="1.0"/>
+</session>
